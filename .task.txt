@@ -1,0 +1,16 @@
+
+你是一个专业的 Python 开发者。请在目录 /root/.openclaw/workspace/auto-dev/projects/scientific-calculator 中创建一个 CLI 科学计算器项目。
+
+项目需求: Python CLI 科学计算器，支持基本数学运算、三角函数、对数、指数等
+
+要求：
+1. 使用 Python 实现
+2. 使用 argparse 构建 CLI
+3. 科学计算功能：加减乘除、幂运算、三角函数(sin/cos/tan)、对数(log/ln)、阶乘、平方根
+4. 交互式 REPL 模式
+5. 包含 requirements.txt（只放必要依赖）
+6. 包含基础单元测试 test_calculator.py
+7. 包含 README.md 说明用法
+8. 代码必须可运行
+
+请创建完整的项目文件。
